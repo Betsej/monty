@@ -1,5 +1,4 @@
-# monty interpreter
-![alt text](https://github.com/uniqueel/monty/blob/main/images/monty.png?raw=true)
+
 
 
 ## The Monty language
@@ -52,5 +51,5 @@ julien@ubuntu:~/monty$
 ```monty filename```
 
 ## AUTHORS<br/>
-Umar Faruq Adam <umarfaruqadam03@gmail.com>
-Nwankwo Guzorochi Confidence <guzorochinwankwo@gmail.com>
+Betty Ejakpovi bejakpovi@gmail.com
+Emoigho Precious Egwofobe 
